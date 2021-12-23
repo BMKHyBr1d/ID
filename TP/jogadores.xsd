@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- New XSD document created with EditiX XML Editor (http://www.editix.com) at Sat Jun 05 01:14:30 BST 2021 -->
+
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+		
+		<xsd:element name="nomec" type="xsd:string"/>
+		<xsd:element name="foto" type="xsd:string"/>
+		<xsd:element name="DataN" type="xsd:string"/>
+		<xsd:element name="nacionalidade" type="xsd:string"/>
+		<xsd:element name="altura" type="xsd:string"/>
+		<xsd:element name="peso" type="xsd:string"/>
+		<xsd:element name="pepref" type="xsd:string"/>
+		<xsd:element name="posicao" type="xsd:string"/>
+		<xsd:element name="clube" type="xsd:string"/>
+		<xsd:element name="selecao" type="xsd:string"/>
+
+		<xsd:element name="valor" type="xsd:string"/>
+		<xsd:element name="empresario" type="xsd:string"/>
+		<xsd:element name="premios" type="xsd:string"/>
+		
+		<xsd:element name="ranking">
+			<xsd:complexType>
+				<xsd:simpleContent>
+					<xsd:extension base="xsd:string">
+						<xsd:attribute ref="tipo" use="required"/>
+					</xsd:extension>
+				</xsd:simpleContent>
+			</xsd:complexType>
+		</xsd:element>
+		
+		<xsd:element name="jogador">
+			<xsd:complexType>
+				<xsd:sequence>
+					<xsd:element ref="nomec"/>
+					<xsd:element ref="foto"/>
+					<xsd:element ref="DataN"/>
+					<xsd:element ref="nacionalidade"/>
+					<xsd:element ref="altura"/>
+					<xsd:element ref="peso"/>
+					<xsd:element ref="pepref"/>
+					<xsd:element ref="posicao"/>
+					<xsd:element ref="clube"/>
+					<xsd:element ref="selecao"/>
+					<xsd:element ref="valor"/>
+					<xsd:element ref="empresario"/>
+					<xsd:element ref="ranking" maxOccurs="2"/>
+					<xsd:element ref="premios"/>
+				</xsd:sequence>
+				<xsd:attribute ref="nome" use="required"/>
+				<xsd:attribute ref="numero" use="required"/>
+			</xsd:complexType>
+		</xsd:element>
+		
+		<xsd:element name="jogadores">
+		<xsd:complexType>
+			<xsd:sequence maxOccurs="unbounded">
+				<xsd:element ref="jogador"></xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+		</xsd:element>
+		
+		<xsd:attribute name="nome" type="xsd:string"/>
+		<xsd:attribute name="numero" type="xsd:string"/>
+		
+		<xsd:attribute name="tipo">
+			<xsd:simpleType>
+				<xsd:restriction base="xsd:string">
+					<xsd:enumeration value="global"/>
+					<xsd:enumeration value="clube"/>
+				</xsd:restriction>
+			</xsd:simpleType>
+		</xsd:attribute>
+		
+		
+
+
+</xsd:schema>
