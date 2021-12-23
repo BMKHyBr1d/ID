@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jogadores>
+     <jogador>
+          <nome>Bruno Fernandes</nome>
+          <preco>90,00M €</preco>
+     </jogador>
+     <jogador>
+          <nome>Cristiano Ronaldo</nome>
+          <preco>45,00M €</preco>
+     </jogador>
+     <jogador>
+          <nome>Jordi Alba</nome>
+          <preco>20,00M €</preco>
+     </jogador>
+</jogadores>

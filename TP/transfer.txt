@@ -1,0 +1,1340 @@
+<!DOCTYPE html>
+<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+<!--[if IE 7]>
+<html class="ie7 oldie" lang="pt"> <![endif]-->
+<!--[if IE 8]>
+<html class="no-js lt-ie9" lang="pt"> <![endif]-->
+<!--[if gt IE 8]><!-->
+
+<html class="no-js" lang="pt">
+<!--<![endif]-->
+
+<head>
+    
+<script type="text/javascript">
+    !function () { var e = function () { var e, t = "__tcfapiLocator", a = [], n = window; for (; n;) { try { if (n.frames[t]) { e = n; break } } catch (e) { } if (n === window.top) break; n = n.parent } e || (!function e() { var a = n.document, r = !!n.frames[t]; if (!r) if (a.body) { var i = a.createElement("iframe"); i.style.cssText = "display:none", i.name = t, a.body.appendChild(i) } else setTimeout(e, 5); return !r }(), n.__tcfapi = function () { for (var e, t = arguments.length, n = new Array(t), r = 0; r < t; r++)n[r] = arguments[r]; if (!n.length) return a; if ("setGdprApplies" === n[0]) n.length > 3 && 2 === parseInt(n[1], 10) && "boolean" == typeof n[3] && (e = n[3], "function" == typeof n[2] && n[2]("set", !0)); else if ("ping" === n[0]) { var i = { gdprApplies: e, cmpLoaded: !1, cmpStatus: "stub" }; "function" == typeof n[2] && n[2](i) } else a.push(n) }, n.addEventListener("message", (function (e) { var t = "string" == typeof e.data, a = {}; try { a = t ? JSON.parse(e.data) : e.data } catch (e) { } var n = a.__tcfapiCall; n && window.__tcfapi(n.command, n.version, (function (a, r) { var i = { __tcfapiReturn: { returnValue: a, success: r, callId: n.callId } }; t && (i = JSON.stringify(i)), e.source.postMessage(i, "*") }), n.parameter) }), !1)) }; "undefined" != typeof module ? module.exports = e : e() }();
+</script>
+<script>
+window._sp_ = {
+    config: {"accountId":1254,"propertyId":7434,"baseEndpoint":"https://cdn.privacy-mgmt.com"}}
+</script>
+<script src="https://cdn.privacy-mgmt.com/wrapperMessagingWithoutDetection.js"></script>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="theme-color" content="#1a3151" />
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="shortcut icon" sizes="192x192" href="/android-chrome-192x192.png">
+    <link rel="apple-touch-icon-precomposed" href="/apple-touch-icon-152x152.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=no" />
+<meta name="keywords" content="Andreas Samaris,Benfica Lissabon,Liga NOS,Grécia" />
+<meta name="description" content="Das ist die Erfolgs Statistik von Andreas Samaris vom Verein Benfica Lissabon. In der Erfolgsübersicht werden alle Titel des Spielers angezeigt." />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://img.a.transfermarkt.technology/portrait/big/140032-1603795411.jpg?lm=1" />
+<meta property="og:description" content="" />
+<meta property="og:title" content="Andreas Samaris - Palmarés" />
+<meta property="og:url" content="https://www.transfermarkt.pt/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="de" rel="alternate" href="https://www.transfermarkt.de/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="de-LU" rel="alternate" href="https://www.transfermarkt.de/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="de-AT" rel="alternate" href="https://www.transfermarkt.at/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="de-CH" rel="alternate" href="https://www.transfermarkt.ch/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="tr" rel="alternate" href="https://www.transfermarkt.com.tr/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="it-CH" rel="alternate" href="https://www.transfermarkt.it/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="it" rel="alternate" href="https://www.transfermarkt.it/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="pl" rel="alternate" href="https://www.transfermarkt.pl/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="en-GB" rel="alternate" href="https://www.transfermarkt.co.uk/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="en-IE" rel="alternate" href="https://www.transfermarkt.co.uk/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="es" rel="alternate" href="https://www.transfermarkt.es/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="es-ES" rel="alternate" href="https://www.transfermarkt.es/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="es-CL" rel="alternate" href="https://www.transfermarkt.es/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="es-VE" rel="alternate" href="https://www.transfermarkt.es/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="es-PE" rel="alternate" href="https://www.transfermarkt.es/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="es-EC" rel="alternate" href="https://www.transfermarkt.es/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="es-CU" rel="alternate" href="https://www.transfermarkt.es/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="nl" rel="alternate" href="https://www.transfermarkt.nl/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="pt" rel="alternate" href="https://www.transfermarkt.pt/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="ru" rel="alternate" href="https://www.transfermarkt.ru/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="fr-CH" rel="alternate" href="https://www.transfermarkt.fr/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="fr" rel="alternate" href="https://www.transfermarkt.fr/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="fr-CA" rel="alternate" href="https://www.transfermarkt.fr/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="fr-CI" rel="alternate" href="https://www.transfermarkt.fr/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="fr-LU" rel="alternate" href="https://www.transfermarkt.fr/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="fr-BE" rel="alternate" href="https://www.transfermarkt.fr/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="pt-BR" rel="alternate" href="https://www.transfermarkt.com.br/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="en-US" rel="alternate" href="https://www.transfermarkt.us/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="en-CA" rel="alternate" href="https://www.transfermarkt.us/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="en-IN" rel="alternate" href="https://www.transfermarkt.co.in/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="en-ZA" rel="alternate" href="https://www.transfermarkt.co.za/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="x-default" rel="alternate" href="https://www.transfermarkt.com/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="en" rel="alternate" href="https://www.transfermarkt.com/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="nl-BE" rel="alternate" href="https://www.transfermarkt.be/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="es-AR" rel="alternate" href="https://www.transfermarkt.com.ar/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="es-MX" rel="alternate" href="https://www.transfermarkt.mx/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="es-CO" rel="alternate" href="https://www.transfermarkt.co/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="ms" rel="alternate" href="https://www.transfermarkt.my/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="ja" rel="alternate" href="https://www.transfermarkt.jp/andreas-samaris/erfolge/spieler/140032" />
+<link hreflang="id" rel="alternate" href="https://www.transfermarkt.co.id/andreas-samaris/erfolge/spieler/140032" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/menue.css?lm=1623679084" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/tm-grid.css?lm=1623679084" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main.css?lm=1623679084" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/foundation-icons.css?lm=1623679083" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/assets/b7c5571cf8957553f95f6d9069eaed67/jui/css/base/jquery-ui.css?lm=1623679094" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main_desktop.css?lm=1623679084" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/sprite-main.css?lm=1623679084" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/chosen.css?lm=1623679083" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/jquery-ui-1.10.4.custom.css?lm=1623679083" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/jquery-ui-1.10.4.tm-theme.css?lm=1623679083" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/main_werbung.css?lm=1623679084" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/shortclasses.css?lm=1623679083" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/print.css?_sn=1?lm=1623679083" media="print" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/spielerprofil.css?lm=1623679083" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/stylesheets/spielerprofil.css?lm=1623679084" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/desktop.css?lm=1623679083" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/domainspezifisch/desktop-pt.css?lm=1623679084" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/css/meintm.css?lm=1623679083" />
+<link rel="stylesheet" type="text/css" href="https://tmssl.akamaized.net/assets/bdb39bc7538f732f9833170435d23c28/css/tooltipster.css?lm=1623679095" />
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/vendor/jquery.min.js?lm=1623679079"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/localStorage.js?lm=1623679079"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/foundation.js?lm=1623679079"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/main.js?lm=1623679079"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/jquery-ui-1.10.4.custom.min.js?lm=1623679079"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/clipboard.min.js?lm=1623679079"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/chosen.ajaxaddition.jquery.js?lm=1623679079"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/jquery.icheck.min.js?lm=1623679079"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/functions.js?lm=1623679079"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/main_desktop.js?lm=1623679079"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/chosen.jquery.js?lm=1623679079"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/assets/bdb39bc7538f732f9833170435d23c28/js/jquery.tooltipster.js?lm=1623679095"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+<!-- DFPV2 --->
+		var gptscript = document.createElement("script");
+			gptscript.type = "text/javascript";
+			gptscript.src = 'https://www.googletagservices.com/tag/js/gpt.js';
+			//gptscript.charset = "utf-8";
+			gptscript.async = true;
+			var gptfirstScript = document.getElementsByTagName("script")[0];
+			gptfirstScript.parentNode.insertBefore(gptscript, gptfirstScript);
+
+		var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			googletag.cmd.push(function() {
+var rectangle1_mapping = googletag.sizeMapping().
+		addSize([0, 0], [[300, 250]]).
+		addSize([640, 480], [[300, 250]]).
+		addSize([980, 690], [[300, 250]]).
+		addSize([1024, 768], [[300, 250]]).build();
+googletag.defineSlot('/58778164/TM_Desktop_TopRectangle_300x250', [[300, 250]], 'Rectangle1').defineSizeMapping(rectangle1_mapping).addService(googletag.pubads());
+var rectangle2_mapping = googletag.sizeMapping().
+		addSize([0, 0], [[300, 250], 'fluid']).
+		addSize([640, 480], [[300, 250], 'fluid']).
+		addSize([980, 690], [[300, 250], 'fluid']).
+		addSize([1024, 768], [[300, 250], [300, 600], 'fluid']).build();
+googletag.defineSlot('/58778164/TM_Desktop_BottomRectangle_300x250', [[300, 250], [300, 600], 'fluid'], 'Rectangle2').defineSizeMapping(rectangle2_mapping).addService(googletag.pubads());
+var skyscraper_mapping = googletag.sizeMapping().
+		addSize([0, 0], [[160, 600], [120, 600]]).
+		addSize([640, 480], [[160, 600], [120, 600]]).
+		addSize([980, 690], [[160, 600], [120, 600]]).
+		addSize([1024, 768], [[160, 600], [300, 600], [120, 600]]).build();
+googletag.defineSlot('/58778164/TM_Desktop_Skyscraper_300x600', [[160, 600], [120, 600], [300, 600]], 'Skyscraper').defineSizeMapping(skyscraper_mapping).addService(googletag.pubads());
+var billboard_mapping = googletag.sizeMapping().
+		addSize([0, 0], [[468, 60], 'fluid']).
+		addSize([640, 480], [[468, 60], 'fluid']).
+		addSize([980, 690], [[970, 250], [970, 90], [970, 66], [728, 90]]).
+		addSize([1024, 768], [[970, 250], [970, 90], [970, 66], [728, 90]]).build();
+googletag.defineSlot('/58778164/TM_Desktop_CenterLeaderboard_970x250', [[468, 60], [970, 90], [970, 250], [728, 90], 'fluid', [970, 66]], 'Billboard').defineSizeMapping(billboard_mapping).addService(googletag.pubads());
+var fullsize_contentad_mapping = googletag.sizeMapping().
+		addSize([0, 0], [468, 60]).
+		addSize([640, 480], [[728, 90], [468, 60]]).
+		addSize([980, 690], [[728, 90], [970, 90], [970, 250]]).
+		addSize([1024, 768], [[970, 250], [970, 90], [728, 90]]).build();
+googletag.defineSlot('/58778164/TM_Desktop_BottomLeaderboard_970x250', [[468, 60], [728, 90], [970, 90], [970, 250]], 'BillboardFooter').defineSizeMapping(fullsize_contentad_mapping).addService(googletag.pubads());
+googletag.defineOutOfPageSlot('/58778164/TM_Desktop_RichMedia_1x1', 'Richmedia').addService(googletag.pubads());
+googletag.pubads().setCentering(true);
+googletag.pubads().collapseEmptyDivs();
+googletag.pubads().enableSingleRequest();
+googletag.pubads().setTargeting("URL","www.transfermarkt.pt")
+googletag.pubads().setTargeting("cg1", ["statistik"]);
+googletag.pubads().setTargeting("cg2", ["spieler"]);
+googletag.pubads().setTargeting("cg3", ["erfolge"]);
+googletag.pubads().setTargeting("cg4", ["140032"]);
+googletag.enableServices();
+})
+<!-- DFPV2-ENDE -->
+/*]]>*/
+</script>
+<title>Andreas Samaris - Palmarés | Transfermarkt</title>
+    <script type="module" src="https://tmsi.akamaized.net/js/globals-dev/tm-global-elements.esm.js">
+/*<![CDATA[*/
+
+/*]]>*/
+</script><script type="text/javascript" nomodule="" src="https://tmsi.akamaized.net/js/globals-dev/tm-global-elements.js">
+/*<![CDATA[*/
+
+/*]]>*/
+</script>
+<script type="text/javascript">
+   tmData = {
+       loggedIn : "0",
+       tmTraffic: "0",
+   };
+</script>
+<script>// Set to the same value as the web property used on the site
+		var gaProperty = 'UA-3816204-13';
+
+		// Disable tracking if the opt-out cookie exists.
+		var disableStr = 'ga-disable-' + gaProperty;
+		if (document.cookie.indexOf(disableStr + '=true') > -1) {
+			window[disableStr] = true;
+		}
+
+		// Opt-out function
+		function gaOptout() {
+			document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+			window[disableStr] = true;
+		}</script>
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-3816204-13"></script>
+	<script>
+	window.dataLayer = window.dataLayer || [];
+	function gtag() { dataLayer.push(arguments); } 
+   gtag('set', 'linker', { 'domains': [/^transfermarkt\.(com|de|nl|it|at|ch|es|fr|com\.tr|pt|tv|pl|co\.uk)$/]});
+   gtag('js', new Date()); 
+   gtag('set',
+  {
+    'custom_map': {
+                    'dimension1': 'loggedIn',
+                    'dimension2': 'tmTraffic'
+                }
+  });
+        gtag('config', 'UA-3816204-13', {
+                'anonymize_ip': true,
+                'transport_type': 'beacon',
+                'content_group1': 'statistik',
+                'content_group2': 'spieler',
+                'content_group3': 'erfolge',
+                'content_group4': '140032',
+                'loggedIn': tmData.loggedIn,
+                'tmTraffic': tmData.tmTraffic
+            }); 
+   function tmEvent(category, action, label) {
+                gtag('event',
+                    action,
+                    {
+                        'event_category': category,
+                        'event_label': label
+                    }
+                );
+            }
+
+            function tmTiming(value, name, event_category, event_label) {
+                gtag('event', 'timing_complete', {
+                    name,
+                    value,
+                    event_category,
+                    event_label
+                });
+            }
+            
+	</script><!--  SZM 2.0 (IVW/AGOF) -->
+<script type="text/javascript" src="https://script.ioam.de/iam.js"></script>    <script type="text/javascript" src="https://tmssl.akamaized.net//ads/ads.js"></script>
+    <script type="text/javascript">
+        if (self == top) {
+            document.documentElement.style.display = 'block';
+        } else {
+            top.location = self.location;
+        }
+    </script>
+    <noscript>
+        <style>
+            html body *:not(.noscript) {
+                display: none;
+            }
+        </style>
+        <div class="noscript">
+            Um die Seite nutzen zu können, schalten Sie bitte Ihr Javascript ein.        </div>
+    </noscript>
+
+    <!--[if lte IE 8]>
+    <link rel="stylesheet" type="text/css" href="/css/ie.css"/><![endif]-->
+            <link rel="canonical" href="https://www.transfermarkt.pt/andreas-samaris/erfolge/spieler/140032">
+    <!-- no Tisoomi -->    <style>
+        @font-face {
+            font-family: 'OSL';
+            font-style: normal;
+            font-weight: normal;
+            src: local('Open Sans Cond Light'), local('OpenSans-CondensedLight'),
+                url("https://tmsi.akamaized.net/fonts/OpenSans-CondensedLight300.woff2") format('woff2'),
+                url("https://tmsi.akamaized.net/fonts/OpenSans-CondensedLight.woff") format('woff');
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'OSB';
+            font-style: normal;
+            font-weight: normal;
+            src: local('Open Sans Cond Light'), local('OpenSans-CondensedLight'),
+                url("https://tmsi.akamaized.net/fonts/OpenSans-CondensedLight300.woff2") format('woff2'),
+                url("https://tmsi.akamaized.net/fonts/OpenSans-CondensedLight.woff") format('woff');
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Source Sans Pro';
+            font-style: normal;
+            font-weight: normal;
+            src: local('Source Sans Pro'), local('SourceSansPro-Regular'),
+                url("https://tmsi.akamaized.net/fonts/SourceSansPro-Regular400.woff2") format('woff2'),
+                url("https://tmsi.akamaized.net/fonts/SourceSansPro-Regular.woff") format('woff');
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Source Sans Pro';
+            font-style: normal;
+            font-weight: bold;
+            src: local('Source Sans Pro Bold'), local('SourceSansPro-Bold'),
+                url("https://tmsi.akamaized.net/fonts/SourceSansPro-Bold700.woff2") format('woff2'),
+                url("https://tmsi.akamaized.net/fonts/SourceSansPro-Bold.woff") format('woff');
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Oswald';
+            font-style: normal;
+            font-weight: lighter;
+            src:
+                url("https://tmsi.akamaized.net/fonts/Oswald-Light200.woff2") format('woff2'),
+                url("https://tmsi.akamaized.net/fonts/oswald_light.woff") format('woff');
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Oswald';
+            font-style: normal;
+            font-weight: normal;
+            src:
+                url("https://tmsi.akamaized.net/fonts/Oswald-Regular400.woff2") format('woff2'),
+                url("https://tmsi.akamaized.net/fonts/oswald_regular.woff") format('woff');
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: 'Oswald';
+            font-style: normal;
+            font-weight: bold;
+            src:
+                url("https://tmsi.akamaized.net/fonts/Oswald-Bold700.woff2") format('woff2'),
+                url("https://tmsi.akamaized.net/fonts/oswald_bold.woff") format('woff');
+            font-display: swap;
+        }
+
+        @font-face {
+            font-family: "socicon";
+            src: url("https://tmsi.akamaized.net/fonts/socicon.eot");
+            src: url("https://tmsi.akamaized.net/fonts/socicon.eot?#iefix") format("embedded-opentype"),
+                url("https://tmsi.akamaized.net/fonts/socicon.woff") format("woff"),
+                url("https://tmsi.akamaized.net/fonts/socicon.ttf") format("truetype"),
+                url("https://tmsi.akamaized.net/fonts/socicon.svg#socicon") format("svg");
+            font-weight: normal;
+            font-style: normal;
+            font-display: swap;
+        }
+    </style>
+    </head>
+<body x-ms-format-detection="none" style="overflow-y: scroll;" class="" itemscope itemtype="http://schema.org/WebPage">
+    <tm-language-hint></tm-language-hint>
+            <div id="navibalken" class="navibalken hide-for-small"></div>
+    <div id="main">
+                <div class="row" id="logobereich">
+            <div id="header" class="large-12 columns">
+                <div class="naviback hide-for-small hide-for-print"></div>
+                <div class="werbung-skyscraper-container hide-for-small">
+                    
+<div class="werbung werbung-skyscraper">
+	<!-- DFPV2 -->
+	<div id="Skyscraper" >
+	<script>
+		googletag.cmd.push(function() { googletag.display('Skyscraper'); });
+	</script>
+	</div>
+</div>
+                </div>
+
+                <div class="werbung-skyscraperbtf-container hide-for-small">
+                                    </div>
+                <div class="row" style="margin: 0;">
+                    <div class="large-3 columns">
+                        <a href="/" class="hide-for-small">
+                            <img class="icon-logo" src="https://tmsi.akamaized.net/head/transfermarkt_logo.svg" title="Transfermarkt" alt="Transfermarkt">
+                        </a>
+                                                    <tm-domainswitcher open-list="false" tld="pt"></tm-domainswitcher>
+                                            </div>
+
+
+                        <div id="header-social-icons" class="large-3 columns flexCenter">
+		                <a name="SocMedia" href="https://www.facebook.com/Transfermarkt.pt" target="_blank" onclick="tmEvent('SM-Icons_Header','click','Facebook');
+"><span class="icon-facebook">&nbsp;</span></a>|
+                <a name="SocMedia" href="https://twitter.com/TMpt_news" target="_blank" onclick="tmEvent('SM-Icons_Header','click','Twitter');
+"><span class="icon-twitter">&nbsp;</span></a>|
+                <a name="SocMedia" href="http://instagram.com/transfermarkt_official" target="_blank" onclick="tmEvent('SM-Icons_Header','click','Instagram');
+"><span class="icon-instagram_grau">&nbsp;</span></a>|
+                <a name="SocMedia" href="/intern/rssguide" target="_blank" onclick="tmEvent('SM-Icons_Header','click','RSS');
+"><span class="icon-rss_feed_grau">&nbsp;</span></a>
+				    </div>
+
+
+                                            <div class="large-6 columns " id="schnellsuche-platz">
+                            <form name="schnellsuche" id="schnellsuche" class="noclose" action="/schnellsuche/ergebnis/schnellsuche">
+                                <input type="text" name="query" class="header-suche" onClick="" placeholder="Pesquisar" autocorrect="off" spellcheck="false"" value="" />
+                                <input type="image" class="header-suche-abschicken" src="/images/suche-grau.svg" alt="Pesquisar" />
+                            </form>
+                            <a href="/detailsuche/spielerdetail/suche" title="Pesquisa avançada - jogadores" id="detailsuche-head" class="header-suche-detailsuche">
+                                <span class="icon-detailsuche"></span>
+                            </a>
+                        </div>
+                                    </div>
+            </div>
+        </div>
+                <div class="row hide-on-print navihalter ">
+            <div class="page_wrapper">
+                <div class="large-12 columns megamenu_container megamenu_dark_bar megamenu_dark">
+                    <a href="/" class="sticky-logo hide-for-small">
+                        <span title="Transfermarkt" class="tm_svg"></span>
+                    </a>
+                        <!-- Begin Menu Container -->
+<ul class="megamenu  extra-domain " id="mainmenue" itemscope="itemscope" itemtype="http://www.schema.org/SiteNavigationElement">
+    <!-- Begin Mega Menu -->
+    <li id="mobile_hauptmenu_button">
+                <ul id="hauptmenuepunkte">
+                                    <li id="naviid_news"class=" megamenu_drop_list">
+                        <a class="megamenu_drop"
+                                                       onClick="tmEvent('News','click','menu');
+">
+                            Notícias                        </a>
+                                                <div class="dropdown_fullwidth">
+                            <div class="col_12 menue_main_col">
+                                                                    <img src="/images/bx_loader.gif"/>
+                                                                </div>
+                            <div class="col_3 menue_right_col hide-for-small">
+                            </div>
+                        </div>
+                                            </li>
+                                            <li id="naviid_transfers"class=" megamenu_drop_list">
+                        <a class="megamenu_drop"
+                                                       onClick="tmEvent('Transfers & Gerüchte','click','menu');
+">
+                            Transferências & rumores                        </a>
+                                                <div class="dropdown_fullwidth">
+                            <div class="col_12 menue_main_col">
+                                                                    <img src="/images/bx_loader.gif"/>
+                                                                </div>
+                            <div class="col_3 menue_right_col hide-for-small">
+                            </div>
+                        </div>
+                                            </li>
+                                            <li id="naviid_marktwerte"class=" megamenu_drop_list">
+                        <a class="megamenu_drop"
+                                                       onClick="tmEvent('Marktwerte','click','menu');
+">
+                            Valores de mercado                        </a>
+                                                <div class="dropdown_fullwidth">
+                            <div class="col_12 menue_main_col">
+                                                                    <img src="/images/bx_loader.gif"/>
+                                                                </div>
+                            <div class="col_3 menue_right_col hide-for-small">
+                            </div>
+                        </div>
+                                            </li>
+                                            <li id="naviid_wettbewerbe"class="aktiv megamenu_drop_list">
+                        <a class="megamenu_drop"
+                                                       onClick="tmEvent('Wettbewerbe','click','menu');
+">
+                            Competições                        </a>
+                                                <div class="dropdown_fullwidth">
+                            <div class="col_12 menue_main_col">
+                                                                    <img src="/images/bx_loader.gif"/>
+                                                                </div>
+                            <div class="col_3 menue_right_col hide-for-small">
+                            </div>
+                        </div>
+                                            </li>
+                                            <li id="naviid_foren"class=" megamenu_drop_list">
+                        <a class="megamenu_drop"
+                                                       onClick="tmEvent('Foren','click','menu');
+">
+                            Fóruns                           </a>
+                                                <div class="dropdown_fullwidth">
+                            <div class="col_12 menue_main_col">
+                                                                    <img src="/images/bx_loader.gif"/>
+                                                                </div>
+                            <div class="col_3 menue_right_col hide-for-small">
+                            </div>
+                        </div>
+                                            </li>
+                                            <li id="naviid_meintm"class=" megamenu_drop_list">
+                        <a class="megamenu_drop"
+                                                       onClick="tmEvent('MeinTM','click','menu');
+">
+                            Meu TM                        </a>
+                                                <div class="dropdown_fullwidth">
+                            <div class="col_12 menue_main_col">
+                                                                    <img src="/images/bx_loader.gif"/>
+                                                                </div>
+                            <div class="col_3 menue_right_col hide-for-small">
+                            </div>
+                        </div>
+                                            </li>
+                                            <li id="naviid_live" class="">
+                        <a href="/ticker/index/live" class="live-navilink"
+                           onClick="tmEvent('Live','click','menu');
+">Em direto                            <tm-live-match-counter auto-request="true" content='["Jogo em direto ", "Jogos em direto"]'></tm-live-match-counter>
+                        </a>
+                                            </li>
+                            </ul>
+    </li>
+</ul>
+                    <a href="/" id="logo_klein" class="show-for-small">
+                        <img class="icon-logo" src="https://tmsi.akamaized.net/head/transfermarkt_logo.svg" title="Transfermarkt" alt="Transfermarkt">
+                    </a>
+                                        <form name="schnellsuche" id="schnellsuche-sticky" class="noclose sticky-suche" action="/schnellsuche/ergebnis/schnellsuche">
+                        <input type="text" name="query" class="header-suche" onClick="" placeholder="Pesquisar" />
+                        <input type="image" class="header-suche-abschicken" src="https://tmssl.akamaized.net//images/suchicon.png" alt="Pesquisar" />
+                    </form>
+                    <a href="/detailsuche/spielerdetail/suche" title="Pesquisa avançada - jogadores" id="detailsuche-head" class="header-suche-detailsuche">
+                        <span class="icon-detailsuche"></span>
+                    </a>
+                    <a name="ToTop-Menu" id="arrow-up-xy" href="#" onClick="">
+                        <i class="fi-arrow-up"></i>
+                    </a>
+                    <div class="userbox ub-abgemeldet" id="login" onClick="tmEvent('login','click','sign_in_button');
+">
+    <a>
+        <span class="login-torso">
+            <i class="fi-torso"></i>
+        </span>
+        <span class="anmelden">Registar</span>
+    </a>
+</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="row popuphalter">
+                <div id="loginbox" class="small-12"></div>
+<div id="registerbox"></div>
+<div id="passwortVergessenBox"></div>
+        </div>
+
+                    <script>
+                function googleEvent(string) {
+                    //_gaq.push(['_trackEvent', string, 'click', 'menu']);
+                    tmEvent(string, 'click', 'menu');
+                }
+            </script>
+                            <div class="row">
+                    <div id="breadcrumb" class="large-12 columns" itemscope itemtype="https://schema.org/BreadcrumbList">
+                        <div class="breadcrumb-box">
+                            <div class="breadcrumb">
+                                
+<div id="quickselect-skeleton" class="ssc" style="height: 40px;">
+  <div class="ssc-wrapper flex" style="height: 100%; padding: 0">
+    <div class="ssc-square quickselect-element" style="width: 40px;"></div>
+    <div class="ssc-square quickselect-element quickselect-selector" style="width: 171.06px;"></div>
+    <div class="ssc-square quickselect-element quickselect-selector" style="width: 170.84px;"></div>
+    <div class="ssc-square quickselect-element quickselect-selector" style="width: 138.03px;"></div>
+    <div class="ssc-square quickselect-element quickselect-selector" style="width: 141.5px;"></div>
+  </div>
+</div>
+
+<tm-quick-select-bar
+    default-country="136"
+    default-competition="PO1"
+    default-club="294"
+    default-player="140032"
+    dropdown-visible=""
+    translations='{&quot;home&quot;:&quot;Home&quot;,&quot;country&quot;:&quot;Pa\u00eds&quot;,&quot;competition&quot;:&quot;Competi\u00e7\u00e3o&quot;,&quot;club&quot;:&quot;Clube&quot;,&quot;player&quot;:&quot;Jogadores&quot;,&quot;attack&quot;:&quot;Avan\u00e7ado&quot;,&quot;midfield&quot;:&quot;M\u00e9dio&quot;,&quot;defense&quot;:&quot;Defesa&quot;,&quot;goalkeeper&quot;:&quot;Guarda-redes&quot;}'
+    >
+</tm-quick-select-bar>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                    <div style="text-align:right"></div>
+        
+<div class="werbung werbung-billboard">
+	<!-- DFPV2 -->
+	<div id="Billboard" >
+	<script>
+		googletag.cmd.push(function() { googletag.display('Billboard'); });
+	</script>
+	</div>
+</div>
+        
+<div id="modalHolder"></div>
+        <style type="text/css">
+    .dataName {
+        font-size: 38px;
+    }
+    @media only screen and (max-width: 767px) {
+        .dataName {
+            font-size: 30px;
+            white-space: nowrap;
+            padding: 5px;
+        }
+    }
+</style>
+<div class="row">
+    <div class="large-12 columns">
+        <div class="dataHeader dataExtended" itemscope itemtype="https://schema.org/Person">
+						            <div class="dataMain">
+                <div class="dataTop">
+                    <div class="dataName">
+						<span class="dataRN">#22</span> <h1 itemprop="name">Andreas <b>Samaris</b></h1>
+
+						
+
+																			
+                    </div>
+											<div class="dataErfolge hide-for-small">
+																						<a
+                                    href="/andreas-samaris/erfolge/spieler/140032"
+                                    title="Campeão de Portugal"
+                                    class="dataErfolg"
+                                >
+										<img src="https://tmssl.akamaized.net/images/erfolge/header/15.png?lm=1520606999" title="Campeão de Portugal" alt="Campeão de Portugal" class="dataErfolgImage" />										<span class="dataErfolgAnzahl">4</span>
+								</a>
+															<a
+                                    href="/andreas-samaris/erfolge/spieler/140032"
+                                    title="Vencedor da Taça de Portugal"
+                                    class="dataErfolg"
+                                >
+										<img src="https://tmssl.akamaized.net/images/erfolge/header/100.png?lm=1520606996" title="Vencedor da Taça de Portugal" alt="Vencedor da Taça de Portugal" class="dataErfolgImage" />										<span class="dataErfolgAnzahl">1</span>
+								</a>
+															<a
+                                    href="/andreas-samaris/erfolge/spieler/140032"
+                                    title="Vencedor da Taça da Liga de Portugal"
+                                    class="dataErfolg"
+                                >
+										<img src="https://tmssl.akamaized.net/images/erfolge/header/246.png?lm=1520606999" title="Vencedor da Taça da Liga de Portugal" alt="Vencedor da Taça da Liga de Portugal" class="dataErfolgImage" />										<span class="dataErfolgAnzahl">2</span>
+								</a>
+															<a
+                                    href="/andreas-samaris/erfolge/spieler/140032"
+                                    title="Campeão da Grécia"
+                                    class="dataErfolg notTablet"
+                                >
+										<img src="https://tmssl.akamaized.net/images/erfolge/header/17.png?lm=1461847499" title="Campeão da Grécia" alt="Campeão da Grécia" class="dataErfolgImage" />										<span class="dataErfolgAnzahl">1</span>
+								</a>
+															<a
+                                    href="/andreas-samaris/erfolge/spieler/140032"
+                                    title="Vencedor da Supertaça de Portugal"
+                                    class="dataErfolg notTablet"
+                                >
+										<img src="https://tmssl.akamaized.net/images/erfolge/header/337.png?lm=1520606999" title="Vencedor da Supertaça de Portugal" alt="Vencedor da Supertaça de Portugal" class="dataErfolgImage" />										<span class="dataErfolgAnzahl">1</span>
+								</a>
+																						<a href="/andreas-samaris/erfolge/spieler/140032" title="Palmarés">
+									<div class="dataErfolg">
+										<span class="dataErfolgMore"><img src="/images/icons/mehr_erfolge.png" /></span>
+									</div>
+								</a>
+													</div>
+					                </div>
+
+            </div>
+            <div class="dataContent">
+                <div class="dataBottom">
+                    <div class="dataDaten">
+													<p>
+								<span class="dataItem">Nasc./Idade:</span>
+								<span itemprop="birthDate" class="dataValue">
+									13/06/1989																			(32)
+																	</span>
+							</p>
+															<p class="hide-for-small">
+									<span class="dataItem">Local de nascimento:</span>
+									<span class="dataValue">
+										<img src="https://tmssl.akamaized.net/images/flagge/tiny/56.png?lm=1520611569" title="Grécia" alt="Grécia" class="flaggenrahmen" /><span itemprop="birthPlace">Patras</span>
+									</span>
+								</p>
+																											<p>
+								<span class="dataItem">Nacionalidade:</span>
+								<span class="dataValue">
+									<img src="https://tmssl.akamaized.net/images/flagge/tiny/56.png?lm=1520611569" title="Grécia" alt="Grécia" class="flaggenrahmen" /><span itemprop="nationality">Grécia</span>
+								</span>
+							</p>
+						
+                    </div>
+                    <div class="dataDaten">
+													<p>
+								<span class="dataItem">Altura:</span>
+								<span itemprop="height" class="dataValue">1,89 m</span>
+							</p>
+						                        <p>
+                            <span class="dataItem">Posição:</span>
+                            <span class="dataValue">
+								Médio Defensivo                            </span>
+                        </p>
+													<p class="show-for-small">
+								<span class="dataItem">Contrato até:</span>
+								<span class="dataValue">
+									30/06/2023								</span>
+							</p>
+												                    </div>
+                    <div class="dataDaten">
+													<p class="notTablet forMobile">
+								<span class="dataItem">
+																			Antigo internacional:
+																	</span>
+								<span class="dataValue">
+									<img src="https://tmssl.akamaized.net/images/flagge/tiny/56.png?lm=1520611569" title="Grécia" alt="Grécia" class="flaggenrahmen flagge" /><a class="vereinprofil_tooltip" id="3378" href="/griechenland/startseite/verein/3378">Grécia</a>								</span>
+							</p>
+							<p class="hide-for-small notTablet">
+								<span class="dataItem">Internacionalizações/Golos:</span>
+								<span class="dataValue"><a href="/andreas-samaris/nationalmannschaft/spieler/140032/verein_id/3378">39</a>/<a href="/andreas-samaris/nationalmannschaft/spieler/140032/verein_id/3378">1</a></span>
+							</p>
+						                    </div>
+                </div>
+            </div>
+
+            <div class="dataBild">
+								<img src="data:image/gif;base64,R0lGODlhAQABAIAAAMLCwgAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" data-src="https://img.a.transfermarkt.technology/portrait/header/140032-1603795411.jpg?lm=1" title="Andreas Samaris" alt="Andreas Samaris" class="lazy lazy" /><div class="bildquelle"><span title="SL Benfica">SL Benfica</span></div>            </div>
+            				<div class="dataZusatzbox">
+					<div class="dataZusatzImage"><a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294"><img src="https://tmssl.akamaized.net/images/wappen/normquad/294.png?lm=1535908439" title="&nbsp;" alt="Sport Lisboa e Benfica" class="" /></a></div>
+					<div class="dataZusatzDaten">
+						<span class="hauptpunkt" itemprop="affiliation"><a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294">SL Benfica</a></span><br />
+																											<span class="mediumpunkt">
+									<a href="/liga-nos/startseite/wettbewerb/PO1">
+
+										<img src="https://tmssl.akamaized.net/images/flagge/tiny/136.png?lm=1520611569" title="Portugal" alt="Portugal" class="flaggenrahmen show-for-small" /><img src="https://tmssl.akamaized.net/images/logo/verytiny/po1.png?lm=1485174349" title="Liga NOS" alt="Liga NOS" class="hide-for-small" />Liga NOS									</a>
+								</span>
+								<br />
+																							<span class="dataItem">Liga:</span>
+								<span class="dataValue">
+									<img src="https://tmssl.akamaized.net/images/flagge/tiny/136.png?lm=1520611569" title="Portugal" alt="Portugal" class="flaggenrahmen" />Primeira Liga								</span>
+								
+							<br />
+																							<span class="dataItem">Na equipa desde:</span> <span class="dataValue">22/08/2014</span>								<br />
+								<span class="dataItem">Contrato até:</span> <span class="dataValue">30/06/2023</span>								<br />
+																		</div>
+				</div>
+										<div class="dataMarktwert">
+					<a href="/andreas-samaris/marktwertverlauf/spieler/140032">2,00 <span class="waehrung">M €</span>					<p>Última alteração: 21/05/2021</p></a>
+				</div>
+				
+        </div>
+				    </div>
+</div>
+
+        <div class="banner sub-banner">
+        <a href="/whatsMyValue?cp=em20" onclick="tmEvent('banner', '/whatsMyValue?cp=em20', 'd-day-banner');"><img src="https://tmsi.akamaized.net/games/whatsmyvalue/announce/WMV_EM_Banner_PT_Desktop_PT.jpg" alt="deadline-day banner"></a>
+    </div>
+            <div class="row hide-on-print" id="subnavi">
+        <div class="page_wrapper subnavi">
+            <div class="large-12 columns">
+                <div class="subnavi_box" id="subnavigation">
+                    <div class="submenu-text show-for-small">
+                        <a name="SubNavi" title="Navigation">
+                            <span>≡ Sub-Navegação</span>
+                        </a>
+                    </div>
+                    <nav>
+                        <ul id="submenu">
+                                                        <li id="close_submenu" class="show-for-small">
+                                <div id="submenu-icon">
+                                    <span class="clicked"></span>
+                                    <span class="clicked"></span>
+                                </div>
+                                <a>Fechar Sub-Navegação</a>
+                            </li>
+                                                                <li id="perfil" data-name="perfil" class="first-button  ">
+                                        <a name="SubNavi" href="/andreas-samaris/profil/spieler/140032" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','profil');
+">Perfil</a>
+                                                                            </li>
+                                                                        <li id="desempenho" data-name="desempenho" class="  ">
+                                        <a name="SubNavi" href="#subnavi" class="megamenu_drop" onClick="tmEvent('subnavigation_spieler','click','leistungsdaten');
+">Desempenho</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="/images/bx_loader.gif" /></div></div>                                    </li>
+                                                                        <li id="valor-de-mercado" data-name="valor-de-mercado" class="  ">
+                                        <a name="SubNavi" href="/andreas-samaris/marktwertverlauf/spieler/140032" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','marktwert');
+">Valor de mercado
+</a>
+                                                                            </li>
+                                                                        <li id="transferencias" data-name="transferencias" class="  ">
+                                        <a name="SubNavi" href="/andreas-samaris/transfers/spieler/140032" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','transfers');
+">Transferências</a>
+                                                                            </li>
+                                                                        <li id="rumores" data-name="rumores" class="  ">
+                                        <a name="SubNavi" href="/andreas-samaris/geruechte/spieler/140032" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','geruchte');
+">Rumores </a>
+                                                                            </li>
+                                                                        <li id="selecao" data-name="selecao" class="  ">
+                                        <a name="SubNavi" href="/andreas-samaris/nationalmannschaft/spieler/140032" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','nationalmannschaft');
+">Seleção</a>
+                                                                            </li>
+                                                                        <li id="noticias" data-name="noticias" class="  ">
+                                        <a name="SubNavi" href="/andreas-samaris/news/spieler/140032" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','news');
+">Notícias</a>
+                                                                            </li>
+                                                                        <li id="palmares" data-name="palmares" class=" aktiv ">
+                                        <a name="SubNavi" href="/andreas-samaris/erfolge/spieler/140032" class="megamenu" onClick="tmEvent('subnavigation_spieler','click','erfolge');
+">Palmarés</a>
+                                                                            </li>
+                                                                        <li id="carreira" data-name="carreira" class="  ">
+                                        <a name="SubNavi" href="#subnavi" class="megamenu_drop" onClick="tmEvent('subnavigation_spieler','click','karriere');
+">Carreira</a>
+                                        <div class="dropdown_fullwidth " title=""><div><img src="/images/bx_loader.gif" /></div></div>                                    </li>
+                                                                        <li id="" data-name="subnavi-edit" class="  subnavi-edit">
+                                        <a name="SubNavi" href="#subnavi" class="megamenu_drop" onClick="tmEvent('subnavigation_spieler','click','edit');
+"></a>
+                                        <div class="dropdown_fullwidth gasthinweis" title="Login ou registar"><div><img src="/images/bx_loader.gif" /></div></div>                                    </li>
+                                                            </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script>
+        var stickySubTop = $('#subnavigation').offset().top;
+        stickySubTop = stickySubTop - 60;
+        var main = $("#main");
+        $(document).ready(function () {
+            $(window).on('scroll load', function () {
+                if (!main.hasClass("stickySubnavigation")) {
+                    stickySubTop = $('#subnavigation').offset().top;
+                }
+                if ($(window).scrollTop() > stickySubTop) {
+                    main.addClass("stickySubnavigation");
+                } else {
+                    main.removeClass("stickySubnavigation");
+                }
+            });
+        });
+    </script>
+    <style>
+        .forum-anchor {
+            margin-top: -80px;
+        }
+    </style>
+
+    <div class="row">
+    <div class="large-8 columns">
+        <div class="row">
+            
+                <div class="large-6 columns">
+                    <div class="box">
+                        <div class="subkategorie-header">
+                            <span>4x Campeão de Portugal</span>
+                        </div>
+                        <div>
+                            <div class="erfolg_bild_box">
+                                <img src="https://tmssl.akamaized.net/images/erfolge/medium/15.png?lm=1520606999" title="Campeão de Portugal" alt="Campeão de Portugal" class="" />                            </div>
+                            <div class="erfolg_info_box">
+                                <table class="auflistung">
+                                                                            <tr>
+                                            <td class="erfolg_table_saison">18/19</td>
+                                            <td class="erfolg_table_wappen">
+                                                <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2018"><img src="https://tmssl.akamaized.net/images/wappen/tiny/294.png?lm=1535908439" title="&nbsp;" alt="Sport Lisboa e Benfica" class="tiny_wappen" /></a>                                            </td>
+                                            <td>
+                                                <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2018">Sport Lisboa e Benfica</a>                                            </td>
+                                        </tr>
+                                                                            <tr>
+                                            <td class="erfolg_table_saison">16/17</td>
+                                            <td class="erfolg_table_wappen">
+                                                <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2016"><img src="https://tmssl.akamaized.net/images/wappen/tiny/294.png?lm=1535908439" title="&nbsp;" alt="Sport Lisboa e Benfica" class="tiny_wappen" /></a>                                            </td>
+                                            <td>
+                                                <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2016">Sport Lisboa e Benfica</a>                                            </td>
+                                        </tr>
+                                                                            <tr>
+                                            <td class="erfolg_table_saison">15/16</td>
+                                            <td class="erfolg_table_wappen">
+                                                <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2015"><img src="https://tmssl.akamaized.net/images/wappen/tiny/294.png?lm=1535908439" title="&nbsp;" alt="Sport Lisboa e Benfica" class="tiny_wappen" /></a>                                            </td>
+                                            <td>
+                                                <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2015">Sport Lisboa e Benfica</a>                                            </td>
+                                        </tr>
+                                                                            <tr>
+                                            <td class="erfolg_table_saison">14/15</td>
+                                            <td class="erfolg_table_wappen">
+                                                <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2014"><img src="https://tmssl.akamaized.net/images/wappen/tiny/294.png?lm=1535908439" title="&nbsp;" alt="Sport Lisboa e Benfica" class="tiny_wappen" /></a>                                            </td>
+                                            <td>
+                                                <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2014">Sport Lisboa e Benfica</a>                                            </td>
+                                        </tr>
+                                                                    </table>
+                            </div>
+                        </div>
+                        <div class="clearer"></div>
+                    </div>
+                </div>
+    
+                <div class="large-6 columns">
+                    <div class="box">
+                        <div class="subkategorie-header">
+                            <span>1x Vencedor da Taça de Portugal</span>
+                        </div>
+                        <div>
+                            <div class="erfolg_bild_box">
+                                <img src="https://tmssl.akamaized.net/images/erfolge/medium/100.png?lm=1520606996" title="Vencedor da Taça de Portugal" alt="Vencedor da Taça de Portugal" class="" />                            </div>
+                            <div class="erfolg_info_box">
+                                <table class="auflistung">
+                                                                            <tr>
+                                            <td class="erfolg_table_saison">2017</td>
+                                            <td class="erfolg_table_wappen">
+                                                <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2016"><img src="https://tmssl.akamaized.net/images/wappen/tiny/294.png?lm=1535908439" title="&nbsp;" alt="Sport Lisboa e Benfica" class="tiny_wappen" /></a>                                            </td>
+                                            <td>
+                                                <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2016">Sport Lisboa e Benfica</a>                                            </td>
+                                        </tr>
+                                                                    </table>
+                            </div>
+                        </div>
+                        <div class="clearer"></div>
+                    </div>
+                </div>
+    </div>
+						<div class="row">
+                <div class="large-6 columns">
+                    <div class="box">
+                        <div class="subkategorie-header">
+                            <span>2x Vencedor da Taça da Liga de Portugal</span>
+                        </div>
+                        <div>
+                            <div class="erfolg_bild_box">
+                                <img src="https://tmssl.akamaized.net/images/erfolge/medium/246.png?lm=1520606999" title="Vencedor da Taça da Liga de Portugal" alt="Vencedor da Taça da Liga de Portugal" class="" />                            </div>
+                            <div class="erfolg_info_box">
+                                <table class="auflistung">
+                                                                            <tr>
+                                            <td class="erfolg_table_saison">15/16</td>
+                                            <td class="erfolg_table_wappen">
+                                                <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2015"><img src="https://tmssl.akamaized.net/images/wappen/tiny/294.png?lm=1535908439" title="&nbsp;" alt="Sport Lisboa e Benfica" class="tiny_wappen" /></a>                                            </td>
+                                            <td>
+                                                <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2015">Sport Lisboa e Benfica</a>                                            </td>
+                                        </tr>
+                                                                            <tr>
+                                            <td class="erfolg_table_saison">14/15</td>
+                                            <td class="erfolg_table_wappen">
+                                                <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2014"><img src="https://tmssl.akamaized.net/images/wappen/tiny/294.png?lm=1535908439" title="&nbsp;" alt="Sport Lisboa e Benfica" class="tiny_wappen" /></a>                                            </td>
+                                            <td>
+                                                <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2014">Sport Lisboa e Benfica</a>                                            </td>
+                                        </tr>
+                                                                    </table>
+                            </div>
+                        </div>
+                        <div class="clearer"></div>
+                    </div>
+                </div>
+    
+                <div class="large-6 columns">
+                    <div class="box">
+                        <div class="subkategorie-header">
+                            <span>1x Campeão da Grécia</span>
+                        </div>
+                        <div>
+                            <div class="erfolg_bild_box">
+                                <img src="https://tmssl.akamaized.net/images/erfolge/medium/17.png?lm=1461847499" title="Campeão da Grécia" alt="Campeão da Grécia" class="" />                            </div>
+                            <div class="erfolg_info_box">
+                                <table class="auflistung">
+                                                                            <tr>
+                                            <td class="erfolg_table_saison">2014</td>
+                                            <td class="erfolg_table_wappen">
+                                                <a class="vereinprofil_tooltip" id="683" href="/olympiakos-piraus/startseite/verein/683/saison_id/2013"><img src="https://tmssl.akamaized.net/images/wappen/tiny/683.png?lm=1447787802" title="&nbsp;" alt="Olympiacos Pireu" class="tiny_wappen" /></a>                                            </td>
+                                            <td>
+                                                <a class="vereinprofil_tooltip" id="683" href="/olympiakos-piraus/startseite/verein/683/saison_id/2013">Olympiacos Pireu</a>                                            </td>
+                                        </tr>
+                                                                    </table>
+                            </div>
+                        </div>
+                        <div class="clearer"></div>
+                    </div>
+                </div>
+    </div>
+						<div class="row">
+                <div class="large-6 columns">
+                    <div class="box">
+                        <div class="subkategorie-header">
+                            <span>1x Vencedor da Supertaça de Portugal</span>
+                        </div>
+                        <div>
+                            <div class="erfolg_bild_box">
+                                <img src="https://tmssl.akamaized.net/images/erfolge/medium/337.png?lm=1520606999" title="Vencedor da Supertaça de Portugal" alt="Vencedor da Supertaça de Portugal" class="" />                            </div>
+                            <div class="erfolg_info_box">
+                                <table class="auflistung">
+                                                                            <tr>
+                                            <td class="erfolg_table_saison">2017</td>
+                                            <td class="erfolg_table_wappen">
+                                                <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2016"><img src="https://tmssl.akamaized.net/images/wappen/tiny/294.png?lm=1535908439" title="&nbsp;" alt="Sport Lisboa e Benfica" class="tiny_wappen" /></a>                                            </td>
+                                            <td>
+                                                <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2016">Sport Lisboa e Benfica</a>                                            </td>
+                                        </tr>
+                                                                    </table>
+                            </div>
+                        </div>
+                        <div class="clearer"></div>
+                    </div>
+                </div>
+            </div>
+    </div>
+
+    <div class="large-4 columns">
+                
+<div class="werbung werbung-rectangle1">
+	<!-- DFPV2 -->
+	<div id="Rectangle1" >
+	<script>
+		googletag.cmd.push(function() { googletag.display('Rectangle1'); });
+	</script>
+	</div>
+</div>
+
+                    <div class="box">
+                <div class="subkategorie-header">
+                    <span>Todos os títulos</span>
+                </div>
+                <table>
+                    <thead>
+                    <tr>
+                        <th colspan="3">Títulos & Época</th>
+                    </tr>
+                    </thead>
+                    <tbody>
+                                            <tr class="bg_Sturm">
+                            <td class="hauptlink" colspan="3">1x Participante no Campeonato do Mundo</td>
+                        </tr>
+
+                                                    <tr>
+                                <td class="erfolg_table_saison zentriert">2014</td>
+
+                                                                    <td style="width:30px;" class="zentriert no-border-rechts">
+                                        <a class="vereinprofil_tooltip" id="3378" href="/griechenland/startseite/verein/3378/saison_id/2013"><img src="https://tmssl.akamaized.net/images/flagge/tiny/56.png?lm=1520611569" title="Grécia" alt="Grécia" class="flaggenrahmen" /></a>                                    </td>
+                                    <td class="no-border-links">
+                                        <a class="vereinprofil_tooltip" id="3378" href="/griechenland/startseite/verein/3378/saison_id/2013">Grécia</a>                                    </td>
+
+                                                            </tr>
+                                                                    <tr class="bg_Sturm">
+                            <td class="hauptlink" colspan="3">4x Campeão de Portugal</td>
+                        </tr>
+
+                                                    <tr>
+                                <td class="erfolg_table_saison zentriert">18/19</td>
+
+                                                                    <td style="width:30px;" class="zentriert no-border-rechts">
+                                        <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2018"><img src="https://tmssl.akamaized.net/images/wappen/tiny/294.png?lm=1535908439" title="&nbsp;" alt="Sport Lisboa e Benfica" class="tiny_wappen" /></a>                                    </td>
+                                    <td class="no-border-links">
+                                        <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2018">Sport Lisboa e Benfica</a>                                    </td>
+
+                                                            </tr>
+                                                    <tr>
+                                <td class="erfolg_table_saison zentriert">16/17</td>
+
+                                                                    <td style="width:30px;" class="zentriert no-border-rechts">
+                                        <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2016"><img src="https://tmssl.akamaized.net/images/wappen/tiny/294.png?lm=1535908439" title="&nbsp;" alt="Sport Lisboa e Benfica" class="tiny_wappen" /></a>                                    </td>
+                                    <td class="no-border-links">
+                                        <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2016">Sport Lisboa e Benfica</a>                                    </td>
+
+                                                            </tr>
+                                                    <tr>
+                                <td class="erfolg_table_saison zentriert">15/16</td>
+
+                                                                    <td style="width:30px;" class="zentriert no-border-rechts">
+                                        <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2015"><img src="https://tmssl.akamaized.net/images/wappen/tiny/294.png?lm=1535908439" title="&nbsp;" alt="Sport Lisboa e Benfica" class="tiny_wappen" /></a>                                    </td>
+                                    <td class="no-border-links">
+                                        <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2015">Sport Lisboa e Benfica</a>                                    </td>
+
+                                                            </tr>
+                                                    <tr>
+                                <td class="erfolg_table_saison zentriert">14/15</td>
+
+                                                                    <td style="width:30px;" class="zentriert no-border-rechts">
+                                        <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2014"><img src="https://tmssl.akamaized.net/images/wappen/tiny/294.png?lm=1535908439" title="&nbsp;" alt="Sport Lisboa e Benfica" class="tiny_wappen" /></a>                                    </td>
+                                    <td class="no-border-links">
+                                        <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2014">Sport Lisboa e Benfica</a>                                    </td>
+
+                                                            </tr>
+                                                                    <tr class="bg_Sturm">
+                            <td class="hauptlink" colspan="3">2x Vencedor da Taça da Liga de Portugal</td>
+                        </tr>
+
+                                                    <tr>
+                                <td class="erfolg_table_saison zentriert">15/16</td>
+
+                                                                    <td style="width:30px;" class="zentriert no-border-rechts">
+                                        <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2015"><img src="https://tmssl.akamaized.net/images/wappen/tiny/294.png?lm=1535908439" title="&nbsp;" alt="Sport Lisboa e Benfica" class="tiny_wappen" /></a>                                    </td>
+                                    <td class="no-border-links">
+                                        <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2015">Sport Lisboa e Benfica</a>                                    </td>
+
+                                                            </tr>
+                                                    <tr>
+                                <td class="erfolg_table_saison zentriert">14/15</td>
+
+                                                                    <td style="width:30px;" class="zentriert no-border-rechts">
+                                        <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2014"><img src="https://tmssl.akamaized.net/images/wappen/tiny/294.png?lm=1535908439" title="&nbsp;" alt="Sport Lisboa e Benfica" class="tiny_wappen" /></a>                                    </td>
+                                    <td class="no-border-links">
+                                        <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2014">Sport Lisboa e Benfica</a>                                    </td>
+
+                                                            </tr>
+                                                                    <tr class="bg_Sturm">
+                            <td class="hauptlink" colspan="3">1x Vencedor da Taça de Portugal</td>
+                        </tr>
+
+                                                    <tr>
+                                <td class="erfolg_table_saison zentriert">2017</td>
+
+                                                                    <td style="width:30px;" class="zentriert no-border-rechts">
+                                        <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2016"><img src="https://tmssl.akamaized.net/images/wappen/tiny/294.png?lm=1535908439" title="&nbsp;" alt="Sport Lisboa e Benfica" class="tiny_wappen" /></a>                                    </td>
+                                    <td class="no-border-links">
+                                        <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2016">Sport Lisboa e Benfica</a>                                    </td>
+
+                                                            </tr>
+                                                                    <tr class="bg_Sturm">
+                            <td class="hauptlink" colspan="3">1x Vencedor da Supertaça de Portugal</td>
+                        </tr>
+
+                                                    <tr>
+                                <td class="erfolg_table_saison zentriert">2017</td>
+
+                                                                    <td style="width:30px;" class="zentriert no-border-rechts">
+                                        <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2016"><img src="https://tmssl.akamaized.net/images/wappen/tiny/294.png?lm=1535908439" title="&nbsp;" alt="Sport Lisboa e Benfica" class="tiny_wappen" /></a>                                    </td>
+                                    <td class="no-border-links">
+                                        <a class="vereinprofil_tooltip" id="294" href="/benfica-lissabon/startseite/verein/294/saison_id/2016">Sport Lisboa e Benfica</a>                                    </td>
+
+                                                            </tr>
+                                                                    <tr class="bg_Sturm">
+                            <td class="hauptlink" colspan="3">1x Campeão da Grécia</td>
+                        </tr>
+
+                                                    <tr>
+                                <td class="erfolg_table_saison zentriert">2014</td>
+
+                                                                    <td style="width:30px;" class="zentriert no-border-rechts">
+                                        <a class="vereinprofil_tooltip" id="683" href="/olympiakos-piraus/startseite/verein/683/saison_id/2013"><img src="https://tmssl.akamaized.net/images/wappen/tiny/683.png?lm=1447787802" title="&nbsp;" alt="Olympiacos Pireu" class="tiny_wappen" /></a>                                    </td>
+                                    <td class="no-border-links">
+                                        <a class="vereinprofil_tooltip" id="683" href="/olympiakos-piraus/startseite/verein/683/saison_id/2013">Olympiacos Pireu</a>                                    </td>
+
+                                                            </tr>
+                                                                </tbody>
+                </table>
+            </div>
+            
+        
+<div class="werbung werbung-rectangle2">
+	<!-- DFPV2 -->
+	<div id="Rectangle2" >
+	<script>
+		googletag.cmd.push(function() { googletag.display('Rectangle2'); });
+	</script>
+	</div>
+</div>
+    </div>
+</div>        
+<div class="werbung werbung-fullsize_contentad">
+	<!-- DFPV2 -->
+	<div id="BillboardFooter" >
+	<script>
+		googletag.cmd.push(function() { googletag.display('BillboardFooter'); });
+	</script>
+	</div>
+</div>
+                <div id="footer" class="row large-12 columns small-12">
+            <a name="Footer" href="/" class="footer-logo"><img src="/images/logo.png" alt="Transfermarkt" /></a>
+        <a name="Footer" href="/intern/impressum">Informação legal</a>
+    |
+    <a name="Footer" href="/intern/web/datenschutz">Política de Privacidade</a>
+    |
+        <a name="Footer" href="/intern/anb">Termos e Condições</a>
+    |
+    <a name="Footer" href="/intern/tmteam">Equipa TM</a>
+
+    
+                |
+
+        <a name="Footer" href="/intern/faq"> Perguntas frequentes</a> |
+        <a name="Footer" href="/intern/fehlermelden">Enviar mensagem de erro</a>
+</div>
+                <div id="menue_overlay" style="display: none;"></div>
+    </div>
+    
+	<!-- DFPV2 -->
+	<div id="Richmedia" style="z-index:1000000">
+	<script>
+		googletag.cmd.push(function() { googletag.display('Richmedia'); });
+	</script>
+	</div>
+    <!-- SZM VERSION="2.0" -->
+    <script type="text/javascript">
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r",
+"oc":"",
+"mg":"yes",
+"sv":"i2",
+"sc":"yes",
+"co":""
+}
+iom.c(iam_data,1);
+    </script>
+    <!--/SZM -->
+        <script type="module">
+var defaultOptions={tracking:!0,refreshAds:!0};export var refreshAd=function(){var e,n;[ASCDP.hasOwnProperty("adS"),null===(e=ASCDP.adS)||void 0===e?void 0:e.hasOwnProperty("reloadAds"),"function"==typeof(null===(n=ASCDP.adS)||void 0===n?void 0:n.reloadAds)].every(function(e){return e})&&ASCDP.adS.reloadAds()};export var TmTrackingAndAds=function(e,n){void 0===n&&(n=defaultOptions);var r=["tabelle","reiter","forum"].includes(e)?e:"";n.tracking&&(gtag("event","page_view",{page_path:"/jsContent"+window.location.pathname}),sendIvwData(r)),n.refreshAds&&"undefined"!=typeof ASCDP&&refreshAd()};window.tmTrackingAndAds=function(e,n){return TmTrackingAndAds(e,n)};</script>
+        <script>
+            $(document).on('ready ajaxSuccess', function() {
+                $(document).foundation();
+            });
+        </script>
+                <script type="text/javascript">
+	if(typeof(adet) == "boolean" && adet == false){
+		img_src="/static/singlepictures/jk99hhfsdh209nbnkjldgh90sghfsdlk";
+	} else {
+		img_src="/static/singlepictures/jku90whjlkjbwbta1g4b8h89fh8sgh8d";
+	}
+	var elem = document.createElement("img");
+	document.body.appendChild(elem);
+	elem.src = img_src;
+</script>
+
+    
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/libs/micromodal.min.js?lm=1623679079"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/libs/intersection-observer.min.js?lm=1623679079"></script>
+<script type="text/javascript" src="https://tmssl.akamaized.net/js/libs/lazyload.min.js?lm=1623679079"></script>
+<script type="text/javascript">
+/*<![CDATA[*/
+	function initCss() {
+	}
+	var aktuelleUrl = 'https://www.transfermarkt.pt/andreas-samaris/erfolge/spieler/140032'
+	var loginUrl='/profil/login?referrer=https%3A%2F%2Fwww.transfermarkt.pt%2Fandreas-samaris%2Ferfolge%2Fspieler%2F140032';
+	var notificationUrl='/notifications/liste';
+	var privateNachrichtenUrl = '/privateNachrichten/liste'
+	var favoritenUrl = '/favoriten/userFavoriten'
+	var favoritenHandleUrl = '/favoriten/handle'
+	var favoritEntfernenText = 'Remover favoritos'
+	var favoritHinzufuegenText = 'Adicionar favoritos'
+	var vereinUrl = '/verein/userbox';
+	var boxOpen = false;
+	var titleString='Andreas Samaris - Palmarés | Transfermarkt';
+	var naviController = 'spieler';
+	var naviAction = 'erfolge';
+	var naviPath = 'andreas-samaris/erfolge/spieler/140032';
+	var naviId = '140032';
+	var naviSaison = '';
+	var onlyDE = '';
+	var onlyMobile = '';
+	var onlyTablet = '';
+	var getUserID = '';
+
+function ReloadPixelImages(typ) {
+    if(typ == 'tabelle') {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_t",
+"oc":"",
+"mg":"yes",
+"sc":"yes",
+"sv":"i2",
+"co":""
+}
+iom.c(iam_data,1);
+
+    }else if(typ == 'reiter') {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_r",
+"oc":"",
+"mg":"yes",
+"sv":"i2",
+"sc":"yes",
+"co":""
+}
+iom.c(iam_data,1);
+
+    }else if(typ == 'forum') {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_forum",
+"oc":"",
+"mg":"yes",
+"sv":"i2",
+"sc":"yes",
+"co":""
+}
+iom.c(iam_data,1);
+
+    }else {
+        var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_s",
+"oc":"",
+"mg":"yes",
+"sv":"i2",
+"sc":"yes",
+"co":""
+}
+iom.c(iam_data,1);
+
+    }
+    gtag('event', 'page_view', {page_path: "/jsContent" + window.location.pathname})
+    if(typeof ASCDP.adS.reloadAds == 'function' && typ != '') {
+        ASCDP.adS.reloadAds()
+    }
+}
+function sendIvwData(typ) {
+    if(typeof iom === 'object' && typeof iom.c === 'function') {
+        if(typ == 'tabelle') {
+            var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_t",
+"oc":"",
+"mg":"yes",
+"sc":"yes",
+"sv":"i2",
+"co":""
+}
+iom.c(iam_data,1);
+
+        }else if(typ == 'reiter') {
+            var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_r",
+"oc":"",
+"mg":"yes",
+"sv":"i2",
+"sc":"yes",
+"co":""
+}
+iom.c(iam_data,1);
+
+        }else if(typ == 'forum') {
+            var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_forum",
+"oc":"",
+"mg":"yes",
+"sv":"i2",
+"sc":"yes",
+"co":""
+}
+iom.c(iam_data,1);
+
+        }else {
+            var iam_data = {
+"st":"transfer",
+"cp":"ausland_rest_r_s",
+"oc":"",
+"mg":"yes",
+"sv":"i2",
+"sc":"yes",
+"co":""
+}
+iom.c(iam_data,1);
+
+        }
+    }
+}
+jQuery(function($) {
+
+          $(".spielprofil_tooltip").tooltipster({'position':'right','arrowColor':'white','delay':'100','speed':0,'contentAsHTML':true,'interactive':true,'content':'\x0A\x09\x09\x09\x3Cimg\x20src\x3D\x22https\x3A\x2F\x2Ftmssl.akamaized.net\x2F\x2Fimages\x2Fspinner.gif\x22\x20style\x3D\x22vertical\x2Dalign\x3A\x20middle\x3B\x22\x20\x2F\x3E\x0A\x09\x09','functionBefore':function(origin, continueTooltip) { continueTooltip(); id_array = origin.context.id.split("/"); var spieler_id = id_array[0]; $.post( "/spieler/_profilTooltip", { spieler_id : spieler_id }, function(data) { if(data) { origin.tooltipster("update", data); } }); }});
+          
+
+          $(".vereinprofil_tooltip").tooltipster({'position':'right','arrowColor':'white','delay':'100','speed':0,'contentAsHTML':true,'interactive':true,'content':'\x0A\x09\x09\x09\x3Cimg\x20src\x3D\x22https\x3A\x2F\x2Ftmssl.akamaized.net\x2F\x2Fimages\x2Fspinner.gif\x22\x20style\x3D\x22vertical\x2Dalign\x3A\x20middle\x3B\x22\x20\x2F\x3E\x0A\x09\x09','functionBefore':function(origin, continueTooltip) { continueTooltip(); id_array = origin.context.id.split("/"); var verein_id = id_array[0]; $.post( "/verein/_profilTooltip", { verein_id : verein_id }, function(data) { if(data) { origin.tooltipster("update", data); } }); }});
+          
+});
+/*]]>*/
+</script>
+</body>
+
+</html>

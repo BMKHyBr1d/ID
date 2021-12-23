@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jogadores xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="jogadores.xsd">
+     <jogador nome="Cristiano Ronaldo" numero="7">
+          <nomec>Cristiano Ronaldo dos Santos Aveiro</nomec>
+          <foto>https://img.a.transfermarkt.technology/portrait/header/8198-1568120625.jpg?lm=1</foto>
+          <DataN>05/02/1985</DataN>
+          <nacionalidade>Portugal</nacionalidade>
+          <altura>187</altura>
+          <peso>80</peso>
+          <pepref>direito</pepref>
+          <posicao>Ponta de Lança</posicao>
+          <clube>FC Barcelona</clube>
+          <selecao>Portugal</selecao>
+          <valor>45,00M €</valor>
+          <empresario>Gestifute</empresario>
+          <ranking tipo="global">96</ranking>
+          <ranking tipo="clube">4</ranking>
+          <premios>[2x Melhor jogador do mundo, 5x Vencedor Ballon d'Or, 3x O Futebolista do Ano da Europa, 18x Melhor marcador, 5x Jogador da época, 10x Futebolista do ano]</premios>
+     </jogador>
+     <jogador nome="Jordi Alba" numero="18">
+          <nomec>Jordi Alba Ramos</nomec>
+          <foto>https://img.a.transfermarkt.technology/portrait/header/69751-1454079452.jpg?lm=1</foto>
+          <DataN>21/03/1989</DataN>
+          <nacionalidade>Espanha</nacionalidade>
+          <altura>170</altura>
+          <peso>68</peso>
+          <pepref>esquerdo</pepref>
+          <posicao>Lateral Esquerdo</posicao>
+          <clube>FC Barcelona</clube>
+          <selecao>Espanha</selecao>
+          <valor>20,00M €</valor>
+          <empresario>InterStarDeporte</empresario>
+          <ranking tipo="global">389</ranking>
+          <ranking tipo="clube">15</ranking>
+          <premios>[Sem Premios]</premios>
+     </jogador>
+     <jogador nome="Bruno Fernandes" numero="18">
+          <nomec>Bruno Miguel Borges Fernandes</nomec>
+          <foto>https://img.a.transfermarkt.technology/portrait/header/240306-1580389882.jpg?lm=1</foto>
+          <DataN>08/09/1994</DataN>
+          <nacionalidade>Portugal</nacionalidade>
+          <altura>179</altura>
+          <peso>69</peso>
+          <pepref>direito</pepref>
+          <posicao>Posição não encontrada</posicao>
+          <clube>Manchester United FC</clube>
+          <selecao>Portugal</selecao>
+          <valor>90,00M €</valor>
+          <empresario>MRP.POSITIONUMBER</empresario>
+          <ranking tipo="global">9</ranking>
+          <ranking tipo="clube">1</ranking>
+          <premios>[1x Melhor marcador, 1x Jogador da época, 2x Futebolista do ano]</premios>
+     </jogador>
+     <jogador nome="Diego Maradona" numero="Não joga">
+          <nomec>Diego Armando Maradona</nomec>
+          <foto>https://img.a.transfermarkt.technology/portrait/header/8024-1606322777.png?lm=1</foto>
+          <DataN>30/10/1960</DataN>
+          <nacionalidade>Argentina</nacionalidade>
+          <altura>Altura não encontrada</altura>
+          <peso>Peso não encontrada</peso>
+          <pepref>esquerdo</pepref>
+          <posicao>Posição não encontrada</posicao>
+          <clube>---</clube>
+          <selecao>Argentina</selecao>
+          <valor>Valor não encontrado</valor>
+          <empresario>Empresário não encontrado</empresario>
+          <ranking tipo="global">Ranking não encontrado</ranking>
+          <ranking tipo="clube">Ranking não encontrado</ranking>
+          <premios>[2x Melhor marcador, 4x Futebolista do ano]</premios>
+     </jogador>
+</jogadores>
